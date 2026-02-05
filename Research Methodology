@@ -1,0 +1,96 @@
+# Research Methodology
+
+## Research Design
+This study follows a **qualitative, longitudinal, human-centered research approach**, grounded in lived user experience and applied product analysis. Rather than controlled laboratory experimentation, the methodology emphasizes **real-world interaction, behavioral observation, and reflective analysis** within a live AI-driven learning platform.
+
+The research is positioned as an **independent, learner-led case study**, combining the perspectives of:
+- an active language learner, and
+- a software engineering researcher focused on human-centric AI systems.
+
+This dual perspective enables analysis at both the **experiential (emotional, behavioral)** and **systemic (architectural, design)** levels.
+
+---
+
+## Study Duration and Context
+The research was conducted over a period of **150+ days**, during which the platform (Duolingo) was used consistently as part of daily language learning practice.
+
+Key contextual elements include:
+- sustained engagement through streak-based learning
+- progression through multiple lesson stages
+- repeated exposure to speaking, listening, and gamified exercises
+- observation of platform changes during an AI-first strategic shift
+
+This extended duration allowed for the identification of **patterns, plateaus, and emotional inflection points** that are not observable in short-term usability studies.
+
+---
+
+## Data Collection Methods
+Data was collected through **non-intrusive, naturalistic interaction**, without altering platform behavior or accessing proprietary systems.
+
+Primary data sources included:
+- first-person interaction logs and reflective notes
+- observation of emotional responses during learning (confidence, hesitation, motivation)
+- analysis of speaking and listening exercise design
+- documentation of user feedback cycles and system responses
+- comparison of learner experience before and after prolonged usage
+
+The study intentionally avoided synthetic testing scenarios, prioritizing **authentic learner behavior in everyday environments** (e.g., home, public spaces, varied emotional states).
+
+---
+
+## Analytical Framework
+The analysis was guided by principles from:
+- Human-Centered AI (HCAI)
+- Human–Computer Interaction (HCI)
+- Behavioral Product Design
+- Responsible and Ethical AI
+
+Key analytical dimensions included:
+- **Emotional safety**: How the system responds to hesitation, mistakes, and vulnerability  
+- **Learner identity**: Whether the system recognizes growth beyond streaks and correctness  
+- **Expression vs participation**: The gap between completing tasks and confidently using language  
+- **System feedback tone**: Reinforcement of progress versus penalization of error  
+- **Scalability vs humanity**: Trade-offs introduced by AI-driven content generation  
+
+These dimensions were mapped against observed user experience to identify systemic gaps and opportunities.
+
+---
+
+## Translational Method: From Insight to System Design
+A defining aspect of this research is its **translational methodology**—moving from observation to design.
+
+Identified experiential gaps were translated into:
+- conceptual system architecture
+- identity-aware interaction flows
+- emotion-sensitive feedback mechanisms
+- feature-level proposals (e.g., Essay Speaking Sessions, DUO-SETTERs framework)
+
+This step ensures the research does not remain descriptive, but **informs actionable, programmable solutions** aligned with existing platform capabilities.
+
+---
+
+## Ethical Considerations
+The research was conducted with the following ethical boundaries:
+- no access to internal or proprietary platform data
+- no collection of personal data from other users
+- no manipulation of platform systems
+- transparent acknowledgment of independent status
+
+All insights are derived from publicly available platform behavior and personal learner experience.
+
+---
+
+## Limitations
+As an independent qualitative case study:
+- findings reflect depth over breadth
+- insights are not statistically generalized
+- emotional responses are contextual and subjective
+
+However, these limitations are balanced by **longitudinal depth**, real-world validity, and alignment with established human-centered research practices.
+
+---
+
+## Methodological Value
+This methodology prioritizes **emotional realism, lived experience, and design relevance** over abstract metrics. It is particularly suited to evaluating AI systems intended for long-term human engagement, where trust, confidence, and identity formation are central to success.
+
+The approach demonstrates how **independent, learner-led research** can surface meaningful insights for AI system design at scale.
