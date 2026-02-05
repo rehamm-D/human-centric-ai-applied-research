@@ -4,6 +4,15 @@
 
 This repository documents an end-to-end **human-centric AI research study**, covering theory, design principles, system architecture, experimentation, evaluation, ethics, limitations, and future work. The study focuses on building AI systems that are **useful, usable, trustworthy, inclusive, and accountable**.
 
+## 🧠 Featured Work
+### AI Systen Study – Independent Applied Research
+📌 150+ day self-initiated study  
+- Designed step-wise AI system architectures  
+- Built user identity and engagement frameworks  
+- Analyzed geographical usage constraints  
+- Converted research insights into programmable logic  
+
+
 ---
 
 ## 1. Abstract
