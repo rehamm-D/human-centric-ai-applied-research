@@ -1,0 +1,141 @@
+# Architecture Design: Essay Speaking Sessions & DUO-SETTER Recognition
+
+## Design Objective
+The architecture proposed in this study aims to bridge the gap between **learning consistency and expressive confidence** in AI-driven language learning systems. Rather than introducing additional complexity, the design builds on existing AI capabilities to create a **human-centric, emotionally supportive pathway** from private practice to confident expression.
+
+The system is intentionally designed to:
+- reduce psychological hesitation
+- preserve emotional safety
+- support learner identity over time
+- remain scalable across geographies
+
+---
+
+## High-Level System Overview
+The proposed architecture introduces two interconnected components:
+
+1. **Essay Speaking Sessions** — a structured, low-pressure expressive learning flow  
+2. **DUO-SETTER Recognition System** — an identity-based acknowledgment of sustained expressive effort
+
+Together, these components enable AI systems to act not only as tutors, but as **listeners and affirmers**.
+
+---
+
+## Step-Wise Architecture Flow: Essay Speaking Sessions
+
+### Step 1: Eligibility & Context Trigger
+- The system monitors long-term learner engagement signals (e.g., streak completion).
+- Once a learner crosses a defined consistency threshold (e.g., 100+ days), the system unlocks Essay Speaking Sessions.
+- This gating ensures that the feature feels **earned and meaningful**, rather than routine.
+
+**Purpose:**  
+To associate expressive practice with confidence readiness, not early pressure.
+
+---
+
+### Step 2: Invitation Prompt (Listener Mode)
+- The AI system initiates the session with a warm, conversational invitation.
+- Prompts are emotionally open-ended, such as:
+  - “How was your day?”
+  - “Tell us something about yourself.”
+- The system explicitly positions itself as a **listener**, not an evaluator.
+
+**Purpose:**  
+To lower emotional barriers and replace task anxiety with dialogue.
+
+---
+
+### Step 3: Native-Language Expression
+- Learners respond freely in their native language or a comfortable intermediary language.
+- No correctness evaluation is applied at this stage.
+
+**Purpose:**  
+To prioritize **expression before translation**, ensuring psychological safety.
+
+---
+
+### Step 4: AI-Assisted Translation Layer
+- The learner’s self-authored response is translated into the target learning language using AI.
+- The translated output preserves meaning rather than enforcing grammatical perfection.
+
+**Purpose:**  
+To convert personal context into language learning material without judgment.
+
+---
+
+### Step 5: Loud Speaking Practice Loop
+- Learners are guided to read the translated essay aloud multiple times.
+- Feedback focuses on:
+  - clarity
+  - rhythm
+  - fluency progression
+- Errors are reframed as signs of effort, not failure.
+
+**Purpose:**  
+To normalize public, audible speaking and build expressive confidence.
+
+---
+
+### Step 6: Progress-Focused Feedback
+- The system highlights growth indicators rather than accuracy scores.
+- Feedback emphasizes improvement across sessions, not session-level performance.
+
+**Purpose:**  
+To reinforce **confidence over correctness**.
+
+---
+
+## Identity Layer: DUO-SETTER Recognition System
+
+### Concept Overview
+DUO-SETTER is an identity-based recognition awarded to learners who demonstrate **sustained expressive effort**, not isolated performance.
+
+A DUO-SETTER represents a learner who:
+- shows courage in expression
+- maintains consistency in speaking practice
+- embraces growth without hesitation
+
+---
+
+### Recognition Architecture (Time-Bound)
+- Recognition operates on a **monthly cycle**, not instant gratification.
+- Learners qualify by completing a defined number of Essay Speaking Sessions (e.g., three sessions within a month).
+- This ensures the identity reflects **habit formation**, not novelty.
+
+---
+
+### Progressive Engagement Signals
+The system delivers recognition in three phases:
+1. **Anticipation prompts** (subtle, curiosity-driven)
+2. **Identity framing** (introducing DUO-SETTER as a collective of confident speakers)
+3. **Affirmation moment** (badge and celebratory messaging)
+
+**Purpose:**  
+To build learner identity gradually and meaningfully.
+
+---
+
+### Location-Aware Affirmation Layer
+- Recognition messages adapt to the learner’s geographical context.
+- Region-aware phrasing reinforces inclusion while preserving brand tone.
+
+**Purpose:**  
+To personalize celebration without compromising scalability.
+
+---
+
+## Architectural Principles
+
+- **Emotion-first interaction:** Safety before evaluation  
+- **Identity continuity:** Progress tracked across time, not isolated sessions  
+- **Scalable empathy:** Emotional intelligence embedded through design, not manual intervention  
+- **Transparency:** Clear distinction between AI support and human learning effort  
+
+---
+
+## System Value Summary
+- Learners gain confidence by speaking about their own lives.
+- The platform strengthens emotional trust without increasing instructional burden.
+- AI transitions from evaluator to **supportive companion**.
+
+This architecture demonstrates how **human-centric intent can be operationalized into scalable AI systems**, preserving emotional belonging while enabling global reach.
