@@ -1,4 +1,4 @@
-# Human-Centric AI — Independent Research Case Study by Tanisha Hasan 
+# Human-Centric AI - Independent Research Case Study by Tanisha Hasan Shaikh
 
 > **Independent Research | Applied AI Systems | Ethics-by-Design**
 
@@ -286,10 +286,11 @@ This independent research demonstrates that **human-centric AI is not an add-on 
 ## 21. Author
 
 **Independent Researcher:** Tanisha Hasan
-**Role:** AI Product Creator & Research-Oriented Engineer
+
+**Role:** AI Product Developer & Research-Oriented Engineer
 
 ---
 
 ## 22. License
 
-This project is released for academic and portfolio use under an open research-friendly license.
+This research is released under the MIT License.
