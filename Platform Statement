@@ -1,0 +1,18 @@
+# Problem Statement
+
+## Context
+This problem statement is derived from an independent, longitudinal case study on human-centric AI and learner engagement within AI-driven language learning platforms.
+
+<As AI-driven platforms increasingly scale learning experiences, a critical gap has emerged between system efficiency and human emotional needs. Language-learning platforms such as Duolingo have successfully leveraged AI, gamification, and adaptive algorithms to promote consistency, habit formation, and accessibility at a global scale. However, recent shifts toward an “AI-first” strategy reveal a growing tension: while AI optimizes delivery and personalization, it often falls short in supporting emotional intelligence, learner identity, and psychological safety—factors essential for sustained engagement and expressive learning.
+
+Despite high retention metrics such as streaks and daily usage, many learners remain passive, silent, and emotionally disconnected from the learning process. Progress is measured quantitatively, yet learners frequently struggle with confidence, self-expression, and a sense of belonging—particularly as they transition from basic repetition to real-world language use. This disconnect is further amplified in geographically and culturally diverse user bases, where emotional expectations, motivational triggers, and communication norms vary significantly.
+
+The problem is not the presence of AI, but the absence of human-centered emotional scaffolding within AI systems. Current conversational and feedback mechanisms prioritize correctness and efficiency over empathy, reassurance, and contextual encouragement. As a result, learners may feel judged, discouraged, or unseen—leading to emotional fatigue, disengagement, or resistance to AI-led learning experiences. Public user backlash following Duolingo’s AI-first transition underscores this issue, signaling a loss of emotional trust rather than a rejection of AI itself.
+
+Furthermore, most AI systems lack a structured framework to model learner identity over time—including emotional state, confidence progression, and intent. Without such modeling, platforms are unable to adapt interactions meaningfully as learners mature, plateau, or experience motivational decline. This limitation constrains AI’s potential to act as a supportive learning companion rather than a transactional evaluator.
+
+Therefore, the core problem this research addresses is:
+
+How can conversational and learning AI systems be architected to preserve emotional trust, support learner identity, and encourage expressive confidence—while remaining scalable, ethical, and globally adaptable?
+
+This research seeks to bridge the gap between AI capability and human experience by examining how emotional intelligence, identity-aware interaction, and region-sensitive engagement can be systematically embedded into AI-driven learning platforms. By translating long-term user insights into architectural and programmable design strategies, the study aims to inform the development of human-centric AI systems that do not merely teach—but support, reassure, and grow with the learner.>
